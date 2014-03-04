@@ -6,6 +6,8 @@
 
   \item $A^c$, \hyperpage{76}
   \item Addition Rule, \hyperindexformat{\textbf}{70}
+  \item adjusted $R^2$ ($R_{adj}^2$), \hyperindexformat{\textbf}{359}, 
+		\hyperpage{358--359}
   \item alternative hypothesis ($H_A$), \hyperindexformat{\textbf}{172}
   \item analysis of variance (ANOVA), \hyperindexformat{\textbf}{236}, 
 		\hyperpage{236--246}, \hyperpage{338}
@@ -14,6 +16,7 @@
 
   \indexspace
 
+  \item backward-elimination, \hyperindexformat{\textbf}{361}
   \item bar plot, \hyperindexformat{\textbf}{35}
     \subitem segmented bar plot, \hyperindexformat{\textbf}{38}
   \item Bayes' Theorem, \hyperindexformat{\textbf}{91}, 
@@ -37,13 +40,14 @@
   \item chi-square table, \hyperindexformat{\textbf}{276}
   \item cohort, \hyperindexformat{\textbf}{13}
   \item collections, \hyperpage{71}
+  \item collinear, \hyperindexformat{\textbf}{358}
   \item column totals, \hyperindexformat{\textbf}{35}
   \item complement, \hyperindexformat{\textbf}{76}
   \item condition, \hyperindexformat{\textbf}{82}
   \item conditional probability, \hyperindexformat{\textbf}{82}, 
 		\hyperpage{81--83}, \hyperpage{93}
   \item confidence interval, \hyperindexformat{\textbf}{165}, 
-		\hyperpage{165--170}
+		\hyperpage{165--170}, \hyperpage{367}
     \subitem confidence level, \hyperpage{168--169}
     \subitem interpretation, \hyperpage{170}
     \subitem using normal model, \hyperpage{189--190}
@@ -78,11 +82,11 @@
     \subitem dolphins and mercury, \hyperpage{225--227}
     \subitem drug\_use, \hyperpage{79--83}
     \subitem email, \hyperpage{35--40}, \hyperpage{71}, 
-		\hyperpage{73--74}
+		\hyperpage{73--74}, \hyperpage{367--376}
     \subitem email50, \hyperpage{3--4}, \hyperpage{20--31}
     \subitem FCID, \hyperpage{104--106}
     \subitem health care, \hyperpage{269}
-    \subitem mario\_kart, \hyperpage{181--182}
+    \subitem mario\_kart, \hyperpage{181--182}, \hyperpage{354--367}
     \subitem medical consultant, \hyperpage{288--290}
     \subitem midterm elections, \hyperpage{334--336}
     \subitem MLB batting, \hyperpage{237--242}
@@ -110,11 +114,12 @@
   \item degrees of freedom (df)
     \subitem $t$ distribution, \hyperindexformat{\textbf}{222}
     \subitem chi-square, \hyperindexformat{\textbf}{276}
+    \subitem regression, \hyperindexformat{\textbf}{359}
   \item density, \hyperindexformat{\textbf}{105}
   \item dependent, \hyperindexformat{\textbf}{8}, 
 		\hyperindexformat{\textbf}{12}
   \item deviation, \hyperindexformat{\textbf}{25}
-  \item df, \hyperindexformat{\see{degrees of freedom (df)}}{380}
+  \item df, \hyperindexformat{\see{degrees of freedom (df)}}{413}
   \item discrete, \hyperindexformat{\textbf}{6}
   \item disjoint, \hyperindexformat{\textbf}{70}, \hyperpage{70--72}
   \item distribution, \hyperindexformat{\textbf}{21}, 
@@ -158,14 +163,17 @@
   \item false negative, \hyperindexformat{\textbf}{89}
   \item false positive, \hyperindexformat{\textbf}{89}
   \item first quartile, \hyperindexformat{\textbf}{28}
+  \item forward-selection, \hyperindexformat{\textbf}{361}
   \item frequency table, \hyperindexformat{\textbf}{35}
+  \item full model, \hyperindexformat{\textbf}{359}
 
   \indexspace
 
   \item gambler's fallacy, \hyperindexformat{\textbf}{86}
   \item General Addition Rule, \hyperindexformat{\textbf}{73}
   \item General Multiplication Rule, \hyperindexformat{\textbf}{84}
-  \item generalized linear model, \hyperindexformat{\textbf}{148}
+  \item generalized linear model, \hyperindexformat{\textbf}{148}, 
+		\hyperindexformat{\textbf}{367}
   \item Greek
     \subitem alpha ($\alpha$), \hyperpage{176}
     \subitem beta ($\beta$), \hyperpage{315}
@@ -196,7 +204,8 @@
 		\hyperindexformat{\textbf}{77}
   \item independent and identically distributed (iid), 
 		\hyperindexformat{\textbf}{135}
-  \item indicator variable, \hyperindexformat{\textbf}{330}
+  \item indicator variable, \hyperindexformat{\textbf}{330}, 
+		\hyperpage{354}, \hyperpage{368}
   \item influential point, \hyperindexformat{\textbf}{334}
   \item intensity map, \hyperindexformat{\textbf}{32}, 
 		\hyperpage{32--35}
@@ -222,6 +231,9 @@
   \item levels, \hyperindexformat{\textbf}{6}
   \item linear combination, \hyperindexformat{\textbf}{100}
   \item linear regression, \hyperindexformat{\textbf}{315}
+  \item logistic regression, \hyperindexformat{\textbf}{367}, 
+		\hyperpage{367--376}
+  \item logit transformation, \hyperindexformat{\textbf}{369}
   \item long tail, \hyperindexformat{\textbf}{24}
   \item lurking variable, \hyperindexformat{\textbf}{14}
 
@@ -236,7 +248,7 @@
     \subitem average, \hyperpage{21}
     \subitem weighted mean, \hyperpage{23}
   \item mean square between groups ($MSG$), 
-		\hyperindexformat{\textbf}{240}
+		\hyperindexformat{\textbf}{239}
   \item mean square error ($MSE$), \hyperindexformat{\textbf}{240}
   \item median, \hyperindexformat{\textbf}{28}
   \item midterm election, \hyperpage{334}
@@ -246,9 +258,12 @@
     \subitem multimodal, \hyperindexformat{\textbf}{24}
     \subitem unimodal, \hyperindexformat{\textbf}{24}
   \item mode, \hyperindexformat{\textbf}{24}
+  \item model selection, \hyperpage{359--363}
   \item mosaic plot, \hyperindexformat{\textbf}{38}
   \item multiple comparisons, \hyperindexformat{\textbf}{245}
-  \item multiple regression, \hyperpage{332}
+  \item multiple regression, \hyperpage{332}, 
+		\hyperindexformat{\textbf}{356}, \hyperpage{354--367}
+    \subitem model assumptions, \hyperpage{363--367}
   \item Multiplication Rule, \hyperindexformat{\textbf}{78}
   \item mutually exclusive, \hyperindexformat{\textbf}{70}, 
 		\hyperpage{70--72}
@@ -256,6 +271,7 @@
   \indexspace
 
   \item n choose k, \hyperindexformat{\textbf}{138}
+  \item natural splines, \hyperindexformat{\textbf}{373}
   \item negative association, \hyperindexformat{\textbf}{8}
   \item nominal, \hyperindexformat{\textbf}{6}
   \item non-response, \hyperindexformat{\textbf}{11}
@@ -313,7 +329,7 @@
   \item probability density function, \hyperindexformat{\textbf}{105}
   \item probability distribution, \hyperindexformat{\textbf}{74}
   \item probability of a success, \hyperindexformat{\textbf}{133}
-  \item probability sample, \hyperindexformat{\see{sample}}{380}
+  \item probability sample, \hyperindexformat{\see{sample}}{413}
   \item prosecutor's fallacy, \hyperindexformat{\textbf}{239}
   \item prospective study, \hyperindexformat{\textbf}{14}
 
@@ -404,6 +420,7 @@
   \item standard error (SE), \hyperindexformat{\textbf}{163}
   \item standard normal distribution, \hyperindexformat{\textbf}{119}
   \item statistically significant, \hyperindexformat{\textbf}{196}
+  \item stepwise, \hyperindexformat{\textbf}{361}
   \item strata, \hyperindexformat{\textbf}{16}
   \item study participants, \hyperindexformat{\textbf}{19}
   \item success, \hyperindexformat{\textbf}{133}
@@ -425,7 +442,8 @@
   \item test statistic, \hyperindexformat{\textbf}{192}
   \item the outcome of interest, \hyperindexformat{\textbf}{82}
   \item third quartile, \hyperindexformat{\textbf}{28}
-  \item time series, \hyperindexformat{\textbf}{325}
+  \item time series, \hyperindexformat{\textbf}{325}, 
+		\hyperindexformat{\textbf}{364}
   \item time series data, \hyperindexformat{\textbf}{187}
   \item transformation, \hyperindexformat{\textbf}{31}
   \item treatment group, \hyperindexformat{\textbf}{2}, 
