@@ -201,7 +201,7 @@
     \endentry
     \entry{data:sleepTransport}{misc}{}
       \field{sortinit}{0}
-      \field{note}{National Sleep Foundation, \href{http://www.sleepfoundation.org/2012poll}{2012 Sleep in America Poll: Transportation Workers\x{fffd} Sleep}, 2012}
+      \field{note}{National Sleep Foundation, \href{http://www.sleepfoundation.org/2012poll}{2012 Sleep in America Poll: Transportation Workers Sleep}, 2012}
     \endentry
     \entry{data:employmentDiabetes}{misc}{}
       \field{sortinit}{0}
@@ -238,10 +238,6 @@
     \entry{data:urbanOwner}{misc}{}
       \field{sortinit}{0}
       \field{note}{United States Census Bureau, \href{http://www.census.gov/geo/www/ua/2010urbanruralclass.html}{2010 Census Urban and Rural Classification and Urban Area Criteria} and \href{http://www.census.gov/prod/cen2010/briefs/c2010br-07.pdf}{Housing Characteristics: 2010}.}
-    \endentry
-    \entry{data:babies}{misc}{}
-      \field{sortinit}{0}
-      \field{note}{Child Health and Development Studies, \href{http://www.ma.hw.ac.uk/~stan/aod/library}{Baby weights data set}}
     \endentry
     \entry{Allais:2011}{article}{}
       \name{labelname}{7}{}{%
@@ -1168,30 +1164,6 @@
       \field{labeltitle}{Modern Applied Statistics with S}
       \field{edition}{Fourth Edition}
       \field{note}{\urlwofont{http://www.stats.ox.ac.uk/pub/MASS4}}
-      \field{title}{Modern Applied Statistics with S}
-      \field{year}{2002}
-    \endentry
-    \entry{data:quine}{book}{}
-      \name{labelname}{2}{}{%
-        {{uniquename=0,hash=d3daebcf2ec000f4636aa27f778849c3}{Venables}{V\bibinitperiod}{W.\bibnamedelimi N.}{W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b4407b4a6a08e7dc0bb0845cfeff30a1}{Ripley}{R\bibinitperiod}{B.\bibnamedelimi D.}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=d3daebcf2ec000f4636aa27f778849c3}{Venables}{V\bibinitperiod}{W.\bibnamedelimi N.}{W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b4407b4a6a08e7dc0bb0845cfeff30a1}{Ripley}{R\bibinitperiod}{B.\bibnamedelimi D.}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{b930999d8f9d8c29b0d3d8a9557634e2}
-      \strng{fullhash}{b930999d8f9d8c29b0d3d8a9557634e2}
-      \field{sortinit}{V}
-      \field{labeltitle}{Modern Applied Statistics with S}
-      \field{edition}{Fourth Edition}
-      \field{note}{\href{http://www.stats.ox.ac.uk/pub/MASS4}{Data can also be found in the R MASS package}}
       \field{title}{Modern Applied Statistics with S}
       \field{year}{2002}
     \endentry
